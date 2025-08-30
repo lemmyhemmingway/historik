@@ -1,0 +1,21 @@
+Compiled binary
+
+historik
+Go module cache and build artifacts
+
+/go.mod
+/go.sum
+go.mod
+go.sum
+/vendor/
+Operating System files
+
+.DS_Store
+Thumbs.db
+IDE and editor files
+
+.idea/
+.vscode/
+*.swp
+*~
+*.log
